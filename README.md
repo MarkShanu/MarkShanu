@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MarkShanu
+- 👀 I’m interested in solutions that will prevent my company site appearing on Virustotal...if ever possible
+- 🌱 I’m currently learning so much on prevention, cyber threats
+- 💞️ I’m looking to collaborate on cyber security
+- 📫 How to reach me mark.shanu@aosorwell.com
+- My domain www.aosorwell.com is currently listed on virustotal and i wish to have it passed
